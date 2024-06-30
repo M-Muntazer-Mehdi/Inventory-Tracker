@@ -38,12 +38,12 @@ The Inventory Management System is meticulously crafted to optimize the oversigh
 - **Notification System:** Send notifications via Email/SMS for user logins.
 
 ## EERD Diagram
-The Enhanced Entity-Relationship Diagram (EERD) for the Inventory Management System is shown below:
+The Enhanced Entity-Relationship Diagram [(EERD)](https://github.com/M-Muntazer-Mehdi/Inventory-Tracker/blob/main/EERD%20Diagram%20File%20-%20Visio.vsdx) for the Inventory Management System is shown below:
 
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://i.ibb.co/wM3q7LH/Drawing1.jpg" alt="Drawing1" border="0" width="400" height="500">
+     <img src="https://i.ibb.co/wM3q7LH/Drawing1.jpg" alt="Drawing1" border="0" width="500" height="600">
     </td>
   </tr>
 </table>
