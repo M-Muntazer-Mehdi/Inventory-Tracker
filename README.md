@@ -11,7 +11,9 @@
 5. [Installation](#installation)
 6. [Database Queries](#database-queries)
    - [Concepts Covered](#concepts-covered)
-7. [Contributions](#contributions)
+7. [Database Study Material](#database-study-material)
+   - [Contents](#contents)
+8. [Contributions](#contributions)
 
 
 # Inventory-Tracker
@@ -76,6 +78,17 @@ The Database directory contains essential SQL queries and scripts for managing t
 - **Views:** Virtual tables based on the result of SQL statements, simplifying complex queries and enhancing data security.
 - **Indexes:** Scripts for creating and managing indexes to improve query performance.
 - **Database Security:** Queries related to user privileges, roles, and permissions management.
+
+## Database Study Material
+
+The [**Database Study Material Report File**](https://github.com/M-Muntazer-Mehdi/Inventory-Tracker/blob/main/Database%20Study%20Material.pdf) contains comprehensive study materials and resources related to database concepts and management. It includes detailed explanations, examples, and practical insights into various aspects of database design, SQL queries, database administration, and more.
+
+### Contents:
+- **Database Concepts:** Overview of fundamental database concepts.
+- **SQL Queries:** Example queries and scripts for data manipulation and retrieval.
+- **Database Administration:** Tips and strategies for efficient database management.
+- **Advanced Topics:** Coverage of advanced database topics such as normalization, indexing, and transaction management.
+- **Case Studies:** Real-world examples and case studies illustrating database implementation and optimization.
 
 ## Contributions
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
