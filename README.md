@@ -1,3 +1,11 @@
+<table align="center">
+  <tr>
+    <td align="center">
+     <img src="https://i.ibb.co/f263TWT/1.png" alt="1" border="0" width="800" height="400">
+    </td>
+  </tr>
+</table>
+
 # Table of Contents
 
 1. [Project Description](#inventory-tracker)
@@ -39,6 +47,17 @@ The Inventory Management System is meticulously crafted to optimize the oversigh
 
 #### 4. Bonus Features:
 - **Notification System:** Send notifications via Email/SMS for user logins.
+
+<table align="center">
+  <tr>
+    <td align="center">
+     <img src="https://i.ibb.co/pjV1VFN/3.png" alt="3" border="0" width="500" height="300">
+    </td>
+   <td align="center">
+     <img src="https://i.ibb.co/HdL8XL0/4.png" alt="4" border="0" width="500" height="300">
+    </td>
+  </tr>
+</table>
 
 ## EERD Diagram
 The Enhanced Entity-Relationship Diagram [(EERD)](https://github.com/M-Muntazer-Mehdi/Inventory-Tracker/blob/main/EERD%20Diagram%20File%20-%20Visio.vsdx) for the Inventory Management System is shown below:
