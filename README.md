@@ -10,6 +10,7 @@
 4. [Adobe XD Prototypes](#adobe-xd-prototypes)
 5. [Installation](#installation)
 6. [Database Queries](#database-queries)
+   - [Concepts Covered:](#concepts-covered)
 7. [Contributions](#contributions)
 
 
@@ -65,7 +66,16 @@ To set up the project on your local machine, follow these steps:
 `dotnet run`
 
 ## Database Queries
-This project includes essential SQL queries and scripts for managing the Oracle database, which can be found in the Database directory.
+The Database directory contains essential SQL queries and scripts for managing the Oracle database, covering various key database concepts and functionalities:
+
+#### Concepts Covered:
+- **DDL (Data Definition Language):** Includes queries for creating tables, views, indexes, and other database objects.
+- **DML (Data Manipulation Language):** Queries for inserting, updating, deleting data in tables.
+- **Constraints:** Definitions for enforcing data integrity rules such as primary keys, foreign keys, unique constraints, etc.
+- **Triggers:** Scripts that execute automatically in response to certain database events, enhancing data consistency and enforcing business rules.
+- **Views:** Virtual tables based on the result of SQL statements, simplifying complex queries and enhancing data security.
+- **Indexes:** Scripts for creating and managing indexes to improve query performance.
+- **Database Security:** Queries related to user privileges, roles, and permissions management.
 
 ## Contributions
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
