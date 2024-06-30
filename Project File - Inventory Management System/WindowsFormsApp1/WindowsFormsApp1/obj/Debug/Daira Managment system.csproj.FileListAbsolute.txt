@@ -1,0 +1,3 @@
+D:\20F-0290_20F-0197_Daira Managment system\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\20F-0290_20F-0197_Daira Managment system\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\20F-0290_20F-0197_Daira Managment system\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Daira Managment system.csproj.AssemblyReference.cache
