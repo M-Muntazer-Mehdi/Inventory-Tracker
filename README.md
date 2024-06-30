@@ -10,7 +10,7 @@
 4. [Adobe XD Prototypes](#adobe-xd-prototypes)
 5. [Installation](#installation)
 6. [Database Queries](#database-queries)
-   - [Concepts Covered:](#concepts-covered)
+   - [Concepts Covered](#concepts-covered)
 7. [Contributions](#contributions)
 
 
