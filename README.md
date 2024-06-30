@@ -51,10 +51,10 @@ The Inventory Management System is meticulously crafted to optimize the oversigh
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://i.ibb.co/pjV1VFN/3.png" alt="3" border="0" width="500" height="300">
+     <img src="https://i.ibb.co/pjV1VFN/3.png" alt="3" border="0" width="500" height="250">
     </td>
    <td align="center">
-     <img src="https://i.ibb.co/HdL8XL0/4.png" alt="4" border="0" width="500" height="300">
+     <img src="https://i.ibb.co/HdL8XL0/4.png" alt="4" border="0" width="500" height="250">
     </td>
   </tr>
 </table>
