@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center">
-     <img src="https://i.ibb.co/f263TWT/1.png" alt="1" border="0" width="800" height="400">
+     <img src="https://i.ibb.co/f263TWT/1.png" border="0" width="800" height="400">
     </td>
   </tr>
 </table>
